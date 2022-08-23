@@ -20,7 +20,7 @@ The repository is to practice the basics of pyspark library and understand the b
 - &,|,==
 - ~
 - pyspark groupBy and agg functions (mean,sum, avg,count)
-- MLib dataframe API
+- MLib dataframe API (Linear regression)
 
 
 
