@@ -1,4 +1,4 @@
-# Pyspark-Jupyter
+# Python- Pyspark-Jupyter
 The repository is to practice the basics of pyspark library and understand the basic operation of it.
 - Create a new environment and install spark via pip install
 - importing pyspark
