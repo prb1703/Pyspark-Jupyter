@@ -1,4 +1,4 @@
-# Python- Pyspark-Jupyter
+# Python- Pyspark-Jupyter -DataBricks - Linear Regression
 The repository is to practice the basics of pyspark library and understand the basic operation of it.
 - Create a new environment and install spark via pip install
 - importing pyspark
@@ -21,6 +21,6 @@ The repository is to practice the basics of pyspark library and understand the b
 - ~
 - pyspark groupBy and agg functions (mean,sum, avg,count)
 - MLib dataframe API (Linear regression)
-
+- Databricks - Linear regression( see Liner_Regression.ipynb and tips.csv)
 
 
